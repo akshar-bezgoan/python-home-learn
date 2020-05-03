@@ -1,0 +1,14 @@
+Types : 
+
+
+     Name, year of birth, age in years, age in days, gender.
+
+[A-Z]*[a-z]*[0-9]*[specialchars]* == Strings str  #default 
+
+0-9 = int ## Integers in Maths 
+
+[0-9]*.[0-9]*  = float ## real numbers in Maths.
+
+True / False 0 / 1 = boolean # boolean
+
+Dates == date

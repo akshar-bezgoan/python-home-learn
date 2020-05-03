@@ -1,0 +1,17 @@
+CIL: 
+cd = this command changes directory
+ls = this command arranges lists files/directories horizontally 
+ls -lr = this command arranges lists files/directories vertically
+ls -lt = this command lists most recent opened file/directory to least recent
+ls -ltr = this command lists least recently opened file/directory to most recent
+clear = this command clears your screen
+exit = this command exits the terminal
+python --version = this command states the version of the python interpreter
+python = this commands changes you from entering commands into python rather than linux
+pwd = this command shows your present working directory
+24/04/20
+exit() = This command stops the program for the user whether it be because it's the end of the program or the user has entered something unwanted.
+This command also switches your command platform back to linux if you are entering commands into python.
+REMEMBER :
+if syntax = enter the if command, add an expression, colon, then on the line below add the consequence.If you want to add multiple consequences then add a semicolon and enter your next consequence.
+	e.g: if 2000 > 1000: print('High score');exit() 

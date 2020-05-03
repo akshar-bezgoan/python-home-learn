@@ -1,0 +1,7 @@
+1. WAP to print names of all the members in our extended family.
+
+2. WAP to take name as input and print greetings.
+	a) How to accept input from keyboard into your program.
+	b) How to save a input into variable.
+		look in page 24.
+3. Take a persons year of birth and tell them their age

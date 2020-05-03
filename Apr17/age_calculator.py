@@ -1,0 +1,21 @@
+print('Enter accordingly for birth month')
+print ('1 = January')
+print ('2 = February')
+print ('3 = March')
+print ('4 = April') 	
+print ('5 = May	')
+print ('6 = June')
+print ('7 = July')
+print ('8 = August')
+print ('9 = September')
+print ('10 = October')
+print ('11 = November')
+print ('12 = December') 	
+DOB_year = int(raw_input( 'Enter the year you were born in:' ))
+age = 2020-DOB_year
+if DOB_year > 2020:print('Invalid Response'); exit()
+DOB_month = int(raw_input( 'Enter the month you were born in:'))
+if DOB_month > 4: age=age-1
+if DOB_month > 12:print('Invalid Response'); exit()
+print('your age is: '  + str(age))
+
