@@ -1,0 +1,18 @@
+
+
+
+All the below commands are run at Documents/python-home-learn folder.
+
+if you create new file ....
+git add . 
+
+if you modify a file or add file using above command.
+git commit -m 'what is your message'  
+
+
+if you commit a file using above command run the below as well
+
+git push
+
+user.name = akshar-bezgoan
+pwd = Ak$har24
