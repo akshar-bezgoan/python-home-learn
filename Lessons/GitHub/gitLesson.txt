@@ -13,5 +13,8 @@ git commit -m 'what is your message'
 if you commit a file using above command run the below as well
 
 git push
+<<<<<<< HEAD:Lessons/GitHub/gitLesson.txt
 
 
+=======
+>>>>>>> ad07e45ca760778c0c71d675d0e14b4ff0349ee2:Lessons/gitLesson.txt
