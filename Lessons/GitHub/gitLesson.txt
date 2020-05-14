@@ -14,5 +14,4 @@ if you commit a file using above command run the below as well
 
 git push
 
-user.name = akshar-bezgoan
-pwd = Ak$har24
+
