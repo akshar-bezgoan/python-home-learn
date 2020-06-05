@@ -1,0 +1,8 @@
+print('The output of this program is the answers to all the math')
+print('Answer 1 = ' 5+4)
+print('Answer 2 = ' 5-4)
+print('Answer 3 = ' 5*4)
+print('Answer 4 = ' 5/4)
+print('Answer 5 = ' 5//4)
+print('Answer 6 = ' 5%4)
+print('Answer 7 = ' 5**4)

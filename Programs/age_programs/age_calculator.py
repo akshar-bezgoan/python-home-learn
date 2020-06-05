@@ -1,0 +1,21 @@
+year = int(input('Enter the year you were born in:'))
+print('Enter accordingly for birth month')
+print ('1 = January')
+print ('2 = February')
+print ('3 = March')
+print ('4 = April') 	
+print ('5 = May	')
+print ('6 = June')
+print ('7 = July')
+print ('8 = August')
+print ('9 = September')
+print ('10 = October')
+print ('11 = November') 
+print ('12 = December') 	
+month = int(input('Please enter your birth month in digits:'))
+age = 2020 - year
+if month > 5: age = age - 1;age_month = 17 - month
+if month < 5: age_month = 5 - month
+if month < 0: print('Invalid Response!')
+if month > 12: print('Invalid Respose!')
+print('Your age is: ' + str(age ) + 'years ' + str(age_month) + 'months')

@@ -1,0 +1,1 @@
+print('a = b means that a is b so it will print 12' )
