@@ -1,0 +1,81 @@
+Exercise 4 {
+
+    Code {
+
+        s = "HumptyDumpty"
+        print("s= ", s)
+        print(s.isalpha)
+        print(s.isdigit)
+        print(s.isalnum)
+        print(s.islower)
+        print(s.isupper)
+        print(s.startswith("Hump"))
+        print(s.endswith("Dump"))
+
+    }
+
+
+    Output {
+
+        s = HumptyDumpty
+        True
+        False
+        False
+        False
+        False
+        True
+        False
+
+    }
+
+}
+
+
+Exercise 5 {
+
+    Raw string are strings that is a raw form of a string.
+    This means it will be a basic version of the completed string by being able to add things like quotation marks 
+    (not being used as a symbol for closing or opening strings) and backslashes (not being used as an escape character)
+
+}
+
+Exercise 6 {
+
+    The function ord() converts a string with len() = 1 to its ASCII int equivalent - eg: ord("A") = 65
+    if len(chr(ord(input))) > 1:
+        print("TypeError: ord() expected a character, but string of length 2 found")
+
+    As you can see I used the chr() function. This is the opposite of the ord() function so I can find 
+    what the input in the ord() function was. This is used to convert a number to its ASCII str equivalent.
+    eg: chr(65) = "A"
+    type(chr(65)) = <class str> 
+
+}
+
+Exercise 7 {
+
+    Each string is an object of the <class str> built-in-type
+
+}
+
+Exercise 8 {
+
+    string = "The difference with stupidity and genius is that genius has its limits"
+    word_list = string.split(" ") 
+    print(word_list)
+
+}
+
+
+Exercise 9{
+
+    a = 8
+    b = 7
+    c = 5
+    d = 6
+    e = 2
+    f = 3
+    g = 3
+    h = 18
+
+}
