@@ -17,11 +17,12 @@ print(b)
 
 
 #Write a program that generates 5 different numbersin the range 10 to 50. 
-from random import random 
+from random import randint
 
 for i in range (5) :
-	rand_generator[i] = random.randint(10,50)
-	print(rand_generator)
+	random_num = randint(10,50)
+	print(random_num)
+	
 	
 
 
